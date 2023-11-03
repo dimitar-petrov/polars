@@ -1,0 +1,4 @@
+(function() {var implementors = {
+"polars_time":[["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/cmp/trait.Ord.html\" title=\"trait core::cmp::Ord\">Ord</a> for <a class=\"struct\" href=\"polars_time/prelude/struct.Duration.html\" title=\"struct polars_time::prelude::Duration\">Duration</a>"]],
+"polars_utils":[["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/cmp/trait.Ord.html\" title=\"trait core::cmp::Ord\">Ord</a> for <a class=\"struct\" href=\"polars_utils/arena/struct.Node.html\" title=\"struct polars_utils::arena::Node\">Node</a>"]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

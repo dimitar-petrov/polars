@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["RevMapping","RevMappingBuilder"],"mod":["string_cache"],"struct":["CatIter","CategoricalChunked","CategoricalChunkedBuilder","StrHashLocal"]};

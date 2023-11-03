@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["NULL"],"enum":["JoinType","JoinValidation","LiteralValue","LogicalPlan","RankMethod"],"struct":["AnonymousScanOptions","CsvWriterOptions","Duration","DynamicGroupOptions","IpcWriterOptions","JoinArgs","Null","ParquetWriteOptions","RankOptions","RollingGroupOptions","RollingOptions"],"trait":["AnonymousScan","Literal","PolarsTemporalGroupby"]};
